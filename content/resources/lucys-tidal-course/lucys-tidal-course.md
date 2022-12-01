@@ -1,6 +1,9 @@
 +++
 title = "Lucy's Tidal Course"
+type = "page"
 +++
+
+this is the nested one
 
 This is an example resource. Here are some materials Lucy created for a multi-part tidal course. 
 

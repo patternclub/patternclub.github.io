@@ -1,5 +1,6 @@
 +++
 title = "Resources"
+type = "page"
 +++
 
 Here is a page where we will share resources for generating and learning about patterns!
