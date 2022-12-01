@@ -1,4 +1,4 @@
-baseURL = "http://patternclub.org"
+baseURL = "https://patternclub.org"
 title = "Pattern Club"
 theme = "etch"
 languageCode = "en-gb"
