@@ -1,5 +1,6 @@
 +++
 title = "Sheffield Pattern Club"
+
 +++
 
 Sheffield Pattern Club is a group of people who meet roughly monthly
