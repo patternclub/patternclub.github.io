@@ -1,0 +1,42 @@
+baseURL = "http://patternclub.org"
+title = "Pattern Club"
+theme = "etch"
+languageCode = "en-gb"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "People making strange patterns"
+  copyright = "© 2022 Pattern Club, creative commons attribution-sharealike"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "sheffield"
+    name = "sheffield"
+    title = "Sheffield Pattern Club"
+    url = "/sheffield/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 30
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
