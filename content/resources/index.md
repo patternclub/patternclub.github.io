@@ -11,7 +11,7 @@ Here is a page where we will share resources for generating and learning about p
 
 [strudel](https://strudel.tidalcycles.org/)- a new live coding platform to write dynamic music pieces in the browser! (Are you noticing a theme?)
 
-lucy's tidal couse (coming soon) - a beginner's guide to using tidal broken down into bite-size chunks
+lucy's tidal course (coming soon) - a beginner's guide to using tidal broken down into bite-size chunks
 
 ## weaving & braiding
 
