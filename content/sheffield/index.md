@@ -14,7 +14,7 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 ### 20th Dec 2022
 
 * Venue: TBC
-* Time: 6pm-8:30pm, 20th Dec 2022
+* Time: 6pm-8pm, 20th Dec 2022
 * [Free sign-up](https://forms.gle/6s66p6Y1sUWxZdYo7)
 
 Exploring [braiding patterns with Japanese kumihimo
