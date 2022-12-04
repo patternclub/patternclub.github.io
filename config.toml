@@ -26,20 +26,27 @@ pygmentsUseClasses = true
     title = "Sheffield Pattern Club"
     url = "/sheffield/"
     weight = 20
+	
+  [[menu.main]]
+    identifier = "codeofconduct"
+    name = "code-of-conduct"
+    title = "code of conduct"
+    url = "/codeofconduct/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "resources"
+    name = "resources"
+    title = "resources"
+    url = "/resources/"
+    weight = 40
 
   [[menu.main]]
     identifier = "about"
     name = "about"
     title = "about"
     url = "/about/"
-    weight = 30
-	
-  [[menu.main]]
-    identifier = "resources"
-    name = "resources"
-    title = "resources"
-    url = "/resources/"
-    weight = 30
+    weight = 50
 
 [permalinks]
   posts = "/:title/"
