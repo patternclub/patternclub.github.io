@@ -34,12 +34,12 @@ pygmentsUseClasses = true
     url = "/codeofconduct/"
     weight = 30
 
-  [[menu.main]]
-    identifier = "resources"
-    name = "resources"
-    title = "resources"
-    url = "/resources/"
-    weight = 40
+#  [[menu.main]]
+#    identifier = "resources"
+#    name = "resources"
+#    title = "resources"
+#    url = "/resources/"
+#    weight = 40
 
   [[menu.main]]
     identifier = "about"
