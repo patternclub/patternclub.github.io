@@ -1,6 +1,5 @@
 +++
 title = "Sheffield Pattern Club"
-
 +++
 
 Sheffield Pattern Club is a group of people who meet roughly monthly
@@ -13,7 +12,7 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 
 ### 20th Dec 2022
 
-* Venue: TBC
+* Venue: to be confirmed (somewhere central in town)
 * Time: 6pm-8pm, 20th Dec 2022
 * [Free sign-up](https://forms.gle/6s66p6Y1sUWxZdYo7)
 
@@ -66,3 +65,7 @@ We plan to start building up and sharing resources around events, but this is wh
 * 22 Nov 2022, Access Space on Fargate - Exploration of live coding with [Strudel](https://strudel.tidalcycles.org/)
 * 28 Sep 2022, Access Space on Fargate - Exploration of live coding with [TidalCycles](https://tidalcycles.org/) version 1.9
 
+## Funders
+
+Materials and venue costs are funded by [UKRI](https://www.ukri.org/)
+fellowship Algorithmic Pattern, ref MR/V025260/1.
