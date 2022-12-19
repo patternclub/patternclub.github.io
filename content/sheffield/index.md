@@ -10,7 +10,7 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 
 ## Upcoming events
 
-### 20th Dec 2022
+### 20th Dec 2022 - braiding
 
 * Venue: Access Space on Fargate (opp. M&S, probably in the larger shop on the right this time)
 * Time: 6pm-8pm, 20th Dec 2022
@@ -18,6 +18,34 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 
 Exploring [braiding patterns with Japanese kumihimo
 disks](https://www.youtube.com/watch?v=d_GreYUHW8w), hands-on. Kumihimo discs and thread will be provided, please sign-up above so we can be sure to have enough to go around.
+
+### 12th Jan 2022 - live performances
+
+* Venue: Sidney and Matilda
+* Time 7:30pm - 1am, 12th Jan 2022
+* [Tickets](https://www.dinavenue.com/event-details/i-now-pattern-club-live) £3+
+
+A "pattern club live" night of pattern-based music performances at
+Sidney and Matilda supported by DINA as part of their i-now programme.
+
+Featuring (a-z):
+
+* [Digital Selves](https://lwlsn.github.io/digitalselves-web/)
+* [Emergence collective](https://linktr.ee/emergencecollective)
+* [Heavy Lifting](https://heavy-lifting.org/)
+* [Hellocatfood](https://www.hellocatfood.com/)
+* [Interworld](https://www.instagram.com/interworldmedia/)
+* [Loula Yorke](https://loulayorke.com/)
+* [SDGORDON](https://www.instagram.com/p/Cl3O8_5D6es/)
+* [Tyger Blue](https://www.instagram.com/tygerblue_/)
+* [Yaxu](https://yaxu.org)
+
+### 24th Jan 2022 - ??
+
+* Venue DINA, Fitzalan Square
+* Time: 6pm-8pm 24th Jan 2022 (TBC)
+
+Another hands-on club session, topic to be decided..
 
 ## Subscribe
 
