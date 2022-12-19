@@ -12,7 +12,7 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 
 ### 20th Dec 2022
 
-* Venue: to be confirmed (somewhere central in town)
+* Venue: Access Space on Fargate (opp. M&S, probably in the larger shop on the right this time)
 * Time: 6pm-8pm, 20th Dec 2022
 * [Free sign-up](https://forms.gle/6s66p6Y1sUWxZdYo7)
 
