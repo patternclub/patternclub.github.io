@@ -9,7 +9,7 @@ etc. Imposters and beginners are welcome.
 Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-lifting.org/) and [Alex](https://slab.org/). 
 
 ## Upcoming events
-
+-----------
 ### 20th Dec 2022 - braiding
 
 * Venue: Access Space on Fargate (opp. M&S, probably in the larger shop on the right this time)
@@ -18,6 +18,8 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 
 Exploring [braiding patterns with Japanese kumihimo
 disks](https://www.youtube.com/watch?v=d_GreYUHW8w), hands-on. Kumihimo discs and thread will be provided, please sign-up above so we can be sure to have enough to go around.
+
+-----------
 
 ### 12th Jan 2022 - live performances
 
@@ -46,6 +48,8 @@ Featuring (a-z):
 * Time: 6pm-8pm 24th Jan 2022 (TBC)
 
 Another hands-on club session, topic to be decided..
+
+-----------
 
 ## Subscribe
 
