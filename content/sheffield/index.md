@@ -42,6 +42,8 @@ Featuring (a-z):
 * [Tyger Blue](https://www.instagram.com/tygerblue_/)
 * [Yaxu](https://yaxu.org)
 
+-----------
+
 ### 24th Jan 2022 - ??
 
 * Venue DINA, Fitzalan Square
