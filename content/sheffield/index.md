@@ -21,10 +21,10 @@ disks](https://www.youtube.com/watch?v=d_GreYUHW8w), hands-on. Kumihimo discs an
 
 -----------
 
-### 12th Jan 2022 - live performances
+### 14th Jan 2022 - live performances
 
 * Venue: Sidney and Matilda
-* Time 7:30pm - 1am, 12th Jan 2022
+* Time 7:30pm - 1am, Saturday 14th Jan 2022
 * [Tickets](https://www.dinavenue.com/event-details/i-now-pattern-club-live) £3+
 
 A "pattern club live" night of pattern-based music performances at
