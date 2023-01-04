@@ -37,6 +37,7 @@ Featuring (a-z):
 
 * Venue: DINA, Fitzalan Square
 * Time: 6pm-8pm 24th Jan 2023
+* [Sign up here](https://forms.gle/m7jHcgrhUQ58oz5s5) - free!
 
 Blackwork was a popular 16th and early 17th century embroidery technique, characterised by its use of black silk thread (though other colours are sometimes seen) worked on white linen. Over the roughly 100 years of its application Blackwork Embroidery evolved significantly from the early reversible counted-thread style through to the geometric infill patterns and shaded style worked in ‘speckle’ or ‘seed’ stitch.
 
