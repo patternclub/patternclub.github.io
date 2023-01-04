@@ -53,8 +53,6 @@ In this workshop we will explore how these patterns are formed and look at some 
 
 Another hands-on club session. More info to follow!
 
------------
-
 ## Subscribe
 
 Please sign up below to receive announcements about future events. We won't use your details for anything else or share with anyone else. Thanks !
