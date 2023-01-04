@@ -10,8 +10,6 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 
 ## Upcoming events
 
------------
-
 ### 14th Jan 2023 - live performances
 
 * Venue: Sidney and Matilda
