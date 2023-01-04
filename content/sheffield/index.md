@@ -40,7 +40,11 @@ Featuring (a-z):
 * Venue: DINA, Fitzalan Square
 * Time: 6pm-8pm 24th Jan 2023
 
-Another hands-on club session. More info to follow!
+Blackwork was a popular 16th and early 17th century embroidery technique, characterised by its use of black silk thread (though other colours are sometimes seen) worked on white linen. Over the roughly 100 years of its application Blackwork Embroidery evolved significantly from the early reversible counted-thread style through to the geometric infill patterns and shaded style worked in ‘speckle’ or ‘seed’ stitch.
+
+Contemporary Blackwork primarily uses simple straight stitches across the regular grid structure of evenweave fabric to create repeating geometric patterns.
+
+In this workshop we will explore how these patterns are formed and look at some of the more complex plaited braid stitches used in the historic technique. No experience of needlework is required!
 
 -----------
 
