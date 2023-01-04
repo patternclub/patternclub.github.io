@@ -15,7 +15,7 @@ Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-li
 ### 14th Jan 2023 - live performances
 
 * Venue: Sidney and Matilda
-* Time 7:30pm - 1am, Saturday 14th Jan 2022
+* Time 7:30pm - 1am, Saturday 14th Jan 2023
 * [Tickets](https://www.dinavenue.com/event-details/i-now-pattern-club-live) £3+
 
 A "pattern club live" night of pattern-based music performances at
@@ -50,6 +50,8 @@ Another hands-on club session. More info to follow!
 * Time: 6pm-8pm 28th Feb 2023
 
 Another hands-on club session. More info to follow!
+
+-----------
 
 ## Subscribe
 
