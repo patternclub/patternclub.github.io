@@ -94,7 +94,7 @@ Please sign up below to receive announcements about future events. We won't use 
 
 We plan to start building up and sharing resources around events, but this is what we did so far:
 
-* 20 Dec 2022, Access Space on Fargate - Exploring [braiding patterns with Japanese kumihimo disks](https://www.youtube.com/watch?v=d_GreYUHW8w), hands-on
+* 20 Dec 2022, Access Space on Fargate - Exploring [braiding patterns with Japanese kumihimo disks](https://www.youtube.com/watch?v=d_GreYUHW8w)
 * 22 Nov 2022, Access Space on Fargate - Exploration of live coding with [Strudel](https://strudel.tidalcycles.org/)
 * 28 Sep 2022, Access Space on Fargate - Exploration of live coding with [TidalCycles](https://tidalcycles.org/) version 1.9
 
