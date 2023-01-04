@@ -9,19 +9,10 @@ etc. Imposters and beginners are welcome.
 Instigated by [Ray](https://eye-measure.neocities.org/), [Lucy](https://heavy-lifting.org/) and [Alex](https://slab.org/). 
 
 ## Upcoming events
------------
-### 20th Dec 2022 - braiding
-
-* Venue: Access Space on Fargate (opp. M&S, probably in the larger shop on the right this time)
-* Time: 6pm-8pm, 20th Dec 2022
-* [Free sign-up](https://forms.gle/6s66p6Y1sUWxZdYo7)
-
-Exploring [braiding patterns with Japanese kumihimo
-disks](https://www.youtube.com/watch?v=d_GreYUHW8w), hands-on. Kumihimo discs and thread will be provided, please sign-up above so we can be sure to have enough to go around.
 
 -----------
 
-### 14th Jan 2022 - live performances
+### 14th Jan 2023 - live performances
 
 * Venue: Sidney and Matilda
 * Time 7:30pm - 1am, Saturday 14th Jan 2022
@@ -44,14 +35,21 @@ Featuring (a-z):
 
 -----------
 
-### 24th Jan 2022 - ??
+### 24th Jan 2023 - Exploring blackwork with [Toni Buckby](https://tonibuckby.com)
 
-* Venue DINA, Fitzalan Square
-* Time: 6pm-8pm 24th Jan 2022 (TBC)
+* Venue: DINA, Fitzalan Square
+* Time: 6pm-8pm 24th Jan 2023
 
-Another hands-on club session, topic to be decided..
+Another hands-on club session. More info to follow!
 
 -----------
+
+### 28th Feb 2023 - Exploring patterns in music with [Emergence Collective](https://emergencecollective.bandcamp.com)
+
+* Venue: Access Space on Fargate (opposite M&S)
+* Time: 6pm-8pm 28th Feb 2023
+
+Another hands-on club session. More info to follow!
 
 ## Subscribe
 
@@ -96,6 +94,7 @@ Please sign up below to receive announcements about future events. We won't use 
 
 We plan to start building up and sharing resources around events, but this is what we did so far:
 
+* 20 Dec 2022, Access Space on Fargate - Exploring [braiding patterns with Japanese kumihimo disks](https://www.youtube.com/watch?v=d_GreYUHW8w), hands-on
 * 22 Nov 2022, Access Space on Fargate - Exploration of live coding with [Strudel](https://strudel.tidalcycles.org/)
 * 28 Sep 2022, Access Space on Fargate - Exploration of live coding with [TidalCycles](https://tidalcycles.org/) version 1.9
 
